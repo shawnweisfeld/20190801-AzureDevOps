@@ -22,10 +22,10 @@ In Azure DevOps we use an Azure Pipeline to release our software. In this challe
 6. Manually kick off a release and check that your application got deployed to your dev instance. 
 7. If everything worked, go ahead and clone the `dev` stage two more times for `test` and `prod`.
    1. The only change you need to make in the `test` and `prod` stages is pointing to the `test` and `prod` respectively. 
-8. For the test and prod stages, set a pre-deployment condition so that one of your teammates has to approve any deployment before it goes to production. 
+8. For the test and prod stages, set a pre-deployment condition so that you have to approve any deployment before it goes to that environment. 
 
 ### Success Criteria
 
-1. Make a small change to your code (for example: update some fo the HTML on the Index page `/Application/aspnet-core-dotnet-core/Views/Home/Index.cshtml`), it should automatically trigger a build and release to your `dev` environment. If the change looks good, get your teammate to approve it to release to `test`. Repeat again for `prod`.
+1. Make a small change to your code (for example: update some fo the HTML on the Index page `/Application/aspnet-core-dotnet-core/Views/Home/Index.cshtml`), it should automatically trigger a build and release to your `dev` environment. If the change looks good, approve it to release to `test`. Repeat again for `prod`.
    
 [Back](challenge05.md) - [Home](../../readme.md) - [Next](challenge07.md)

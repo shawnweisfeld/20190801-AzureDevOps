@@ -4,6 +4,8 @@
 
 DevOps is a journey not a destination. Our goal when writing this challenged based hack is to introduce you to the Azure DevOps tooling and some common DevOps practices. We also understand that your choice of programming language and DevOps processes might differ from the ones we will be using in this hack, that is OK. Our intent was to select some of the most common programming languages and highlight industry best practices, with an emphasis on showing how Azure DevOps can help you on your DevOps journey, so that you can apply this in your environment with the languages and tools that you use.
 
+[Intro PPT](./devops.pptx)
+
 ## Challenges
  - [Challenge 0](./Student/Guides/challenge00.md) - Setup
  - [Challenge 1](./Student/Guides/challenge01.md) - Azure DevOps: Introduction
@@ -15,3 +17,5 @@ DevOps is a journey not a destination. Our goal when writing this challenged bas
  - [Challenge 7](./Student/Guides/challenge07.md) - Azure Repos: Branching & Policies
  - [Challenge 8](./Student/Guides/challenge08.md) - Azure Monitoring: Application Insights 
  - [Challenge 9](./Student/Guides/challenge09.md) - Azure Pipelines: OSS Scanning with WhiteSource Bolt
+
+> This is a modified version of the full What the Hack. See fhte full repo [here](https://aka.ms/wth)
