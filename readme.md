@@ -8,7 +8,7 @@ DevOps is a journey not a destination. Our goal when writing this challenged bas
 
 [Intro PPT](./devops.pptx)
 
-## Challenges
+## Azure DevOps 360 Challenges
  - [Challenge 0](./Student/Guides/challenge00.md) - Setup
  - [Challenge 1](./Student/Guides/challenge01.md) - Azure DevOps: Introduction
  - [Challenge 2](./Student/Guides/challenge02.md) - Azure Boards: Agile Project Management
@@ -19,3 +19,12 @@ DevOps is a journey not a destination. Our goal when writing this challenged bas
  - [Challenge 7](./Student/Guides/challenge07.md) - Azure Repos: Branching & Policies
  - [Challenge 8](./Student/Guides/challenge08.md) - Azure Monitoring: Application Insights 
  - [Challenge 9](./Student/Guides/challenge09.md) - Azure Pipelines: OSS Scanning with WhiteSource Bolt
+
+## Azure DevOps Hands on Labs
+
+### Agile Planning and Portfolio Management with Azure Boards 
+[https://www.azuredevopslabs.com/labs/azuredevops/agile/](https://www.azuredevopslabs.com/labs/azuredevops/agile/)
+
+### Managing project schedules across teams with Delivery Plans 
+[https://azuredevopslabs.com/labs/azuredevops/deliveryplans/](https://azuredevopslabs.com/labs/azuredevops/deliveryplans/)
+
